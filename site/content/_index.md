@@ -10,7 +10,7 @@ intro:
     text: "Art for Life is the prime location to come and exhibit parts of your soul that will extinguish anxiety. Continually browse through our gallery to be inspired to feel alive, feel adventurous, and appreciate the world."
 products:
     - image: /img/wave.jpg
-      text: "We sell artwork from independent and famous artists that are all professionally critiqued. Every piece of artwork will be created by passionate artists and will not convey an experience of mediocrity.
+      text: "We sell artwork from independent and famous artists that are all professionally critiqued. Every piece of artwork will be created by passionate artists and will not convey an experience of mediocrity."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
