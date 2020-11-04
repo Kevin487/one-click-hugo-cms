@@ -7,10 +7,10 @@ blurb:
     text: People interested in Art will find that this corner of the web is home to a specific art style. This website will resonate with certain people and will continue to connect art to people's souls. Stay up to date with our website, learn about new artwork or artists, and continue to vibe.
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Art for Life is the prime location to come and exhibit parts of your soul that will extinguish anxiety. Continually browse through our gallery to be inspired to feel alive, feel adventurous, and appreciate the world."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    - image: /img/wave.jpg
+      text: "We sell artwork from independent and famous artists that are all professionally critiqued. Every piece of artwork will be created by passionate artists and will not convey an experience of mediocrity.
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
