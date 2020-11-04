@@ -11,8 +11,8 @@ intro:
 products:
     - image: /img/wave.jpg
       text: "We sell artwork from independent and famous artists that are all professionally critiqued. Every piece of artwork will be created by passionate artists and will not convey an experience of mediocrity."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: /img/digital_home.jpg
+      text: 
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
