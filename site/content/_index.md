@@ -1,7 +1,7 @@
 ---
-title: "Learn About Famous Artists and Shop Their Artwork"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Learn About Famous Artists"
+subtitle: Fall In Love and Buy Artwork For Your Living Space
+image: /img/art_gallery.jpg
 blurb:
     heading: Why Kaldi?
     text: 
