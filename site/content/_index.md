@@ -3,8 +3,8 @@ title: "Learn About Famous Artists"
 subtitle: Fall In Love and Buy Artwork For Your Living Space
 image: /img/art_gallery.jpg
 blurb:
-    heading: Why Kaldi?
-    text: 
+    heading: Why Shop Here?
+    text: People interested in Art will find that this corner of the web is home to a specific art style. This website will resonate with certain people and will continue to connect art to people's souls. Stay up to date with our website, learn about new artwork or artists, and continue to vibe.
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
