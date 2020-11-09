@@ -1,7 +1,7 @@
 ---
 title: Our Coffee
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/SelfDisclosure.jpg
 heading: What we offer
 description: >-
   Art for life is the ultimate spot for art lovers who want to ease their mind
