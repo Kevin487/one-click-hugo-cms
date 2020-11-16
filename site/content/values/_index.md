@@ -10,15 +10,16 @@ values:
       empowering and refocusing positive energies. The art featured here will
       be focused around sharing positivity, grace, and relief.
     imageUrl: "/img/GreenWheat.jpg"
-  - heading: "Single origin"
+  - heading: "The Power of Art"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Art holds a lot of power, which is proven through its multifaceted uses
+      throughout history. I believe Staring, analyzing, and appreciating a work
+      of art will awaken a feeling within a person. Therefore, it is important
+      to be picky on the topics of art someone wants to buy. A piece of art can
+      positively or negatively transform the atmosphere of a persons mind or
+      home.
+    imageUrl: "/img/fengshui.jpg"
+  - heading: "Positivity Is Important"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
       an understanding of ecosystem services, the study of
