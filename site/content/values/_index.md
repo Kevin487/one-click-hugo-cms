@@ -13,7 +13,7 @@ values:
   - heading: "The Power of Art"
     text: >
       Art holds a lot of power, which is proven through its multifaceted uses
-      throughout history. I believe Staring, analyzing, and appreciating a work
+      throughout history. I believe staring, analyzing, and appreciating a work
       of art will awaken a feeling within a person. Therefore, it is important
       to be picky on the topics of art someone wants to buy. A piece of art can
       positively or negatively transform the atmosphere of a persons mind or
