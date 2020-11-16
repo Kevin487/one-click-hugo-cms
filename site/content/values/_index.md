@@ -6,7 +6,7 @@ values:
     text: >
       The utility and meaning of art has many variations within our society.
       Art can be a very powerful tool for propaganda or conveying complex
-      id
+      imagery. 
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
