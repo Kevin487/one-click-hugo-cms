@@ -9,7 +9,7 @@ values:
       imagery and a lot more. Therefore, art is also an excellent tool in
       empowering and refocusing positive energies. The art featured here will
       be focused around sharing positivity, grace, and relief.
-    imageUrl: "/img/about-shade-grown.jpg"
+    imageUrl: "/img/GreenWheat.jpg"
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
