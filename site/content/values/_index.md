@@ -2,13 +2,11 @@
 title: "Values"
 image: /img/SelfDisclosurejpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Stress Relieving Art Work"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      The utility and meaning of art has many variations within our society.
+      Art can be a very powerful tool for propaganda or conveying complex
+      id
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
