@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/SelfDisclosurejpg
+image: /img/SelfDisclosure.jpg
 values:
   - heading: "Stress Relieving Art Work"
     text: >
