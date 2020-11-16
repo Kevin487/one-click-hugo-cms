@@ -6,7 +6,9 @@ values:
     text: >
       The utility and meaning of art has many variations within our society.
       Art can be a very powerful tool for propaganda or conveying complex
-      imagery. 
+      imagery and a lot more. Therefore, art is also an excellent tool in
+      empowering and refocusing positive energies. The art featured here will
+      be focused around sharing positivity, grace, and relief.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
