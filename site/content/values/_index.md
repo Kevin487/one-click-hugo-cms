@@ -33,6 +33,7 @@ values:
       positive references, which will enhance calm and peace. Remaining calm and
       peaceful will complement self awareness and strengthen positive
       perception of world situations.
+
       A peaceful and calm mindset can also be found within meditation.
       Meditation can be done by taking in deep breaths by stimulating a sense
       of relief. Art can help stimulate this process through visual stimulation.
