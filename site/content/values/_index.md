@@ -21,12 +21,11 @@ values:
     imageUrl: "/img/fengshui.jpg"
   - heading: "Positivity Is Important"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+      Positivity is a mindset and feeling that is controlled through self
+      awareness and external variables. Understanding that positivity can
+      contribute to mental health, physical health, and productivity rates can
+      bring about new convictions of meaning, understanding, and self-love.  
+    imageUrl: "/img/davidhockney.jpg"
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
