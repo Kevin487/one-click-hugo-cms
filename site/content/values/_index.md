@@ -21,25 +21,25 @@ values:
     imageUrl: "/img/fengshui.jpg"
   - heading: "Positivity Is Important"
     text: >
-      Positivity is a mindset and feeling that is controlled through self
+      Positivity is a mindset and a feeling that is controlled through self
       awareness and external variables. Understanding that positivity can
       contribute to mental health, physical health, and productivity rates can
       bring about new convictions of meaning, understanding, and self-love.  
     imageUrl: "/img/davidhockney.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Calm and Peace"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      A healthy mind and body, while remaining positive can lead to a healthy
+      view of life. Handling situations, including difficult ones, will have
+      positive references, which will enhance calm and peace. Remaining calm and
+      peaceful will complement self awareness and strengthen positively
+      perception of world situations.
+    imageUrl: "/img/LeonidAfremov.jpg"
+  - heading: "We Value Creativity"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Wellness of mind and body can also be found in being creative while it
+      can, at the same time, it can be found through the appreciation of
+      art. A goal of ours is to also inspire a desire to be creative because it
+      is a source of happiness for many people. Creativity can fuel the pleasure
+      center of many peoples brain chemistry.
+    imageUrl: "/img/PeterMax.jpg"
 ---
