@@ -31,14 +31,12 @@ values:
       A healthy mind and body, while remaining positive can lead to a healthy
       view of life. Handling situations, including difficult ones, will have
       positive references, which will enhance calm and peace. Remaining calm and
-      peaceful will complement self awareness and strengthen positively
+      peaceful will complement self awareness and strengthen positive
       perception of world situations.
     imageUrl: "/img/LeonidAfremov.jpg"
   - heading: "We Value Creativity"
     text: >
-      Wellness of mind and body can also be found in being creative while it
-      can, at the same time, it can be found through the appreciation of
-      art. A goal of ours is to also inspire a desire to be creative because it
+      A goal of ours is to also inspire a desire to be creative because it
       is a source of happiness for many people. Creativity can fuel the pleasure
       center of many peoples brain chemistry.
     imageUrl: "/img/PeterMax.jpg"
