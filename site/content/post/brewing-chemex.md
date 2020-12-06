@@ -7,16 +7,16 @@ description: >-
   strives to create artwork for both illustration and fine art. Her life allows
   her family to be surrounded by art, which emphasizes the importance of
   allowing art to be a part of everyone's lifestyle.
-image: /img/NensiKaranxha.jpg
+image: /img/Nensi.jpg
 ---
 
 Nensi Karanxha graduated in Polytechnic Engineering in Albania and then graduated from Boston Architectural College USA. Nensi practices architecture, but still has a passion for painting art. Her passion lies within painting scenes of Boston and its historical places. However, her paintings also carry a theme from her travels within Europe and other travels across the USA.\*.
 
-This is a link to purchase the [HARVARD BRIDGE CANVAS PRINT](http://www.boston-artwork.com/canvas-prints/harvard-bridge-canvas-print) artwork above. I would say *"this artwork conveys a beautiful sense of Boston's vibe"*, and so is included in the portfolio of this website.
-
-## The little secrets of Chemex brewin
+## The little treats given to us by Nensi Karanxha
 
 ![](/img/NensiKaranxha.jpg)
+
+This is a link to purchase the [HARVARD BRIDGE CANVAS PRINT](http://www.boston-artwork.com/canvas-prints/harvard-bridge-canvas-print) artwork above. I would say *"this artwork conveys a beautiful sense of Boston's vibe"*, and so is included in the portfolio of this website.
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
