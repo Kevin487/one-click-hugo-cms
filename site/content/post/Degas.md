@@ -16,7 +16,7 @@ image: /img/EdgarDegas.jpg
 [Young Woman with Ibis (ca. 1860–1862)](https://ipaintings.com/edgar-degas-paintings-young-woman-with-ibis?gclid=CjwKCAiAn7L-BRBbEiwAl9UtkFLtInlkbIwq6y1__yZpqRQjUA8QCPGNZd8aRN-riFK_LX79s_eOkRoCyNAQAvD_BwE) is a painting that reveals a part of human psychology. (131.40)
 
 ![](/img/degas4.jpg)
-[Four Dancers (ca. 1899)](https://www.icanvas.com/canvas-print/four-dancers-c-edg34?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks#1PC3-26x26) is a beautiful painting that encompasses the soul when immersed in one's passions. ($51.99)
+[Four Dancers (ca. 1899)](https://www.icanvas.com/canvas-print/four-dancers-c-edg34?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks#1PC3-26x26) is a beautiful painting that depicts human psychology when a person is immersed in one's passions. ($51.99)
 
 ![](/img/degas5.jpg)
 [Ballet Dancers (ca. 1877)](https://www.art.com/products/p45518091870-sa-i10425117/edgar-degas-ballet-dancers-1877.htm?upi=Q12NXH02FOU7G&RFID=217825) is the depiction of young souls embodying the complexities of human psychology. *"I understand this picture to be about the curiosity that is innate in young children. The curiosity can stem from the treasures this world has to offer."* ($101)
