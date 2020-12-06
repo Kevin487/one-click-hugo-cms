@@ -1,27 +1,26 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: "Wassily Kandinsky"
+date: 2020-12-02T15:04:10.000Z
+description: Wassily Kandinsky was born on December 16, 1866, in Moscow Russia. He passed away on December 13, 1944, in Neuilly-sur-Seine, France. He was a Russian painter who also engaged in art theory. He is generally credited to be the pioneer of abstract artwork.
+image: /img/VassilyKandinsky.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+As the pioneer of abstract artwork, Wassily Kandinsky, engaged with geometry, abstract colors, and abstract forms within his art. He believed that art was an expression of one's inner self.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Some of Kandinsky's Work
 
-## What the updates mean to you
+![](/img/abstract1.jpg)
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+[Painting With Green Center (1913)](https://www.rawpixel.com/image/2763125/free-illustration-image-wassily-kandinsky-abstract-kandinsky) is available for free download through this link!
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+![](/img/abstract2.jpg)
+[Improvisation No. 30 (1913)](https://www.rawpixel.com/image/2763124/free-illustration-image-kandinsky-wassily-kandinsky-vintage) is a perfect demonstration of abstract art.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+![](/img/abstract3.jpg)
+[Houses at Murnau (1909)](https://www.rawpixel.com/image/2763122/free-illustration-image-colorful-wassily-kandinsky-abstract) is an beautiful illustration of a simple life.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+![](/img/abstract4.jpg)
+[The Waterfall (1909)](https://www.rawpixel.com/image/2763134/free-illustration-image-kandinsky-abstract-colorful) is an abstract artistic rendering of the beauties nature can offer the human eye.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+![](/img/abstract5.jpg)
+[Aquarell (1866-1944)](https://www.rawpixel.com/image/2763120/free-illustration-image-aquarell-kandinsky-wassily-kandinsky) is an artwork done by Kandinsky that conveys emotions. It is up for the viewer to decide what that is!
