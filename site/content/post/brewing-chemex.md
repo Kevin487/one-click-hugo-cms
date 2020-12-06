@@ -1,6 +1,6 @@
 ---
 title: Nensi Karanxha
-date: 2017-01-04T15:04:10.000Z
+date: 2020-12-04T15:04:10.000Z
 description: >-
   Nensi Karanxha works to create paintings and drawings collaboratively with her
   husband within her house, which is retrofitted to be an art studio. She
