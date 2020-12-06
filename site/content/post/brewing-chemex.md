@@ -14,7 +14,7 @@ Nensi Karanxha graduated in Polytechnic Engineering in Albania and then graduate
 
 This is a link to purchase the [HARVARD BRIDGE CANVAS PRINT](http://www.boston-artwork.com/canvas-prints/harvard-bridge-canvas-print) artwork above. I would say *"this artwork conveys a beautiful sense of Boston's vibe"*, and so is included in the portfolio of this website.
 
-## The little secrets of Chemex brewing
+## The little secrets of Chemex brewin
 
 ![](/img/NensiKaranxha.jpg)
 
