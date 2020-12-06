@@ -7,6 +7,7 @@ description: >-
   Art for life is the ultimate spot for art lovers who want to ease their mind
   and feel pleasures art can transmit to their soul. We take art distribution
   and knowledge seriously and we're glad to pass that knowledge to anyone.
+  <a href="https://www.coindesk.com/price/bitcoin">bitcoin</a>
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
