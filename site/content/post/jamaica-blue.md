@@ -1,28 +1,34 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'About Janet Hill'
+date: 2020-12-01T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Janet Hill is an amazing and creative artist that lives in Stratford,
+  Ontario, Canada. Janet had the pleasure of being the author and illustrator of
+  Miss Moon: Wise Words from a Dog Governess, Miss Mink: Life Lessons for a Cat
+  Countess, and Lucy Crisp and the Vanishing House.
 ---
+![](/img/JanetHill.jpg)
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Currently her list of interests include a lot of interesting things, but is not limited to the following: Tornadoes, haunted houses, witches, pirates, quicksand, Lana del Rey, dogs and cats, historic hotels, sea monsters, non fiction books, vintage cars, Old Hollywood, Wes Anderson movies, and understanding why her husband owns over thirty books about Bob Dylan.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## A Little View of Janet's Giant Portfolio of Artwork
 
-## A little history
+![](/img/SelfieMermaid.jpg)
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+[Selfie at the Mermaid Public Fountain](https://janethillstudio.com/products/selfie-at-the-public-mermaid-fountain?_pos=1&_sid=07c431224&_ss=r) is an amazing piece of artwork while enhancing and encouraging the imagination of all viewers. *"I am absolutely in love with the emotions conveyed through gazing upon this illustration."* The photo can be bought on the link above.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+![](/img/Extraordinary.jpg)
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+[Extraordinary Chickens](https://janethillstudio.com/collections/cats/products/extraordinary-chickens-2) is another amazing piece of art done by Janet Hill. The desire to be extraordinary and uniquely made is truly embodied within Janet's artwork.
 
-## What you need to know before trying
+![](/img/Cricket.jpg)
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+[Cricket] is an art print done by Janet Hill and it is made from printing done by epson ultrachrome archival inks on heavyweight matte fine art paper (100% cotton rag).
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+![](/img/TrueFriend.jpg)
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+[You Are A True Friend](https://janethillstudio.com/collections/thank-you-cards/products/you-are-a-true-friend) is a card made by Janet Hill, which can be purchased and be given to the people that mean the most to you. *"Yes! Janet Makes Cards Too!"*
 
+![](/img/muchtodo.jpg)
+
+[The Watch 'Much To Do' Tear-Away Notepads](https://janethillstudio.com/collections/stationery/products/the-watch-much-to-do-tearaway-notepads) are for sale as well! Janet has created methods to have art travel with you wherever you go!
