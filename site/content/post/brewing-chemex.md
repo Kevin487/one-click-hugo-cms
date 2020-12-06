@@ -7,7 +7,7 @@ description: >-
   strives to create artwork for both illustration and fine art. Her life allows
   her family to be surrounded by art, which emphasizes the importance of
   allowing art to be a part of everyone's lifestyle.
-image: /img/Nensi Karanxha.jpg
+image: /img/NensiKaranxha.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
