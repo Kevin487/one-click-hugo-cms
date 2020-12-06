@@ -12,7 +12,7 @@ image: /img/NensiKaranxha.jpg
 
 Nensi Karanxha graduated in Polytechnic Engineering in Albania and then graduated from Boston Architectural College USA. Nensi practices architecture, but still has a passion for painting art. Her passion lies within painting scenes of Boston and its historical places. However, her paintings also carry a theme from her travels within Europe and other travels across the USA.\*.
 
-In 1958, designers at the [Illinois Institute of Technology](http://www.boston-artwork.com/canvas-prints/harvard-bridge-canvas-print) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+This is a link to purchase the [HARVARD BRIDGE CANVAS PRINT](http://www.boston-artwork.com/canvas-prints/harvard-bridge-canvas-print) artwork above. I would say *"this artwork conveys a beautiful sense of Boston's vibe"*, and so is included in the portfolio of this website.
 
 ## The little secrets of Chemex brewing
 
