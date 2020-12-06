@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
+	.st1{fill:#FBB03B;}
+	.st2{font-family:'Arial-Black';}
+	.st3{font-size:350px;}
 </style>
-<rect x="9" y="139" class="st0" width="574" height="246"/>
-<text transform="matrix(1 0 0 1 -2418.5798 -2821.0789)" style="fill:#FBB040; font-family:'Arial-Black'; font-size:1296px;">ArtforLife</text>
+<rect x="55" y="346.8" class="st0" width="1920" height="1064.8"/>
+<text transform="matrix(1 0 0 1 55 597.3564)" class="st1 st2 st3">ArtforLife</text>
 </svg>
