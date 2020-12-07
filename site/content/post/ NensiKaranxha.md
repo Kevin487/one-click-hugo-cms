@@ -9,10 +9,13 @@ description: >-
   allowing art to be a part of everyone's lifestyle.
 image: /img/Nensi.jpg
 ---
+[//]: # (above is the stored methods to add title, date, description, and image.)
 
 Nensi Karanxha graduated in Polytechnic Engineering in Albania and then graduated from Boston Architectural College USA. Nensi practices architecture, but still has a passion for painting art. Her passion lies within painting scenes of Boston and its historical places. However, her paintings also carry a theme from her travels within Europe and other travels across the USA.\*.
 
 ## Some of The Pieces of Artwork Made by Nensi Karanxha
+
+[//]: # (adding a picture then linking a link to a name for lines 17-29)
 
 ![](/img/FrogPond_Ice_skating.jpg)
 [ICE SKATING IN FROG POND MATTED ART PRINT](http://www.boston-artwork.com/shop/ice-skating-in-frog-pond-matted-art-print) conveys the feeling of winter. Gaze upon this painting in your living room and reminisce of the days you spent with your family, at an ice skating rink, on a cold winters night that strangely felt warm. ($15.00)

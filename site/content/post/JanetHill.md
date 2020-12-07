@@ -7,11 +7,15 @@ description: >-
   Miss Moon: Wise Words from a Dog Governess, Miss Mink: Life Lessons for a Cat
   Countess, and Lucy Crisp and the Vanishing House.
 ---
+[//]: # (above is the stored methods to add title, date, description, and image.)
+
 ![](/img/JanetHill.jpg)
 
 Currently her list of interests include a lot of interesting things, but is not limited to the following: Tornadoes, haunted houses, witches, pirates, quicksand, Lana del Rey, dogs and cats, historic hotels, sea monsters, non fiction books, vintage cars, Old Hollywood, Wes Anderson movies, and understanding why her husband owns over thirty books about Bob Dylan.
 
 ## A Little View of Janet's Giant Portfolio of Artwork
+
+[//]: # (adding a picture then linking a link to a name for lines 18-36)
 
 ![](/img/SelfieMermaid.jpg)
 

@@ -4,10 +4,13 @@ date: 2020-12-02T15:04:10.000Z
 description: Wassily Kandinsky was born on December 16, 1866, in Moscow Russia. He passed away on December 13, 1944, in Neuilly-sur-Seine, France. He was a Russian painter who also engaged in art theory. He is generally credited to be the pioneer of abstract artwork.
 image: /img/VassilyKandinsky.jpg
 ---
+[//]: # (above is the stored methods to add title, date, description, and image.)
 
 As the pioneer of abstract artwork, Wassily Kandinsky, engaged with geometry, abstract colors, and abstract forms within his art. He believed that art was an expression of one's inner self.
 
 ## Some of Kandinsky's Work
+
+[//]: # (adding a picture then linking a link to a name for lines 15-29)
 
 ![](/img/abstract1.jpg)
 

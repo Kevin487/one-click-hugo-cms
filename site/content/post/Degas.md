@@ -4,7 +4,11 @@ date: 2020-11-25T15:04:10.000Z
 description: Edgar Degas (1834-1917) is considered to be one of the founding fathers of Impressionism alongside Monet, Renoir, and Cezanne. Degas is known for his excellence in displaying, in his artwork, the complexities of human psychology. His main subject matters included scenes of daily contemporary life, which captured portraits of commoners, athletes, ballet dancers, and entertainers.
 image: /img/EdgarDegas.jpg
 ---
+[//]: # (above is the stored methods to add title, date, description, and image.)
+
 ## Artwork by Edgar Degas (1834-1917)
+
+[//]: # (adding a picture then linking a link to a name for lines 13-26)
 
 ![](/img/degas1.jpg)
 [Dancers (1896)](https://fineartamerica.com/featured/dancers-1896-edgar-degas.html?product=framed-print&googleShopping=true&completeProductSku=artworkid%5B23529642%5D-productid%5Bprintframed%5D-imagewidth%5B7.5%5D-imageheight%5B10%5D-paperid%5Barchivalmattepaper%5D-frameid%5BCRQ13%5D-mat1id%5BPM918%5D-mat1width%5B2%5D-finishid%5B0.125acrylic%5D&gclid=CjwKCAiAn7L-BRBbEiwAl9UtkMXMCtgNkCn-s2zIr4SAO8bhN6mvK4TgWkDO0dWfwOVGjHjHQz7CpRoCm84QAvD_BwE) is an classic illustration of the beauties found within ballet. ($79.00)

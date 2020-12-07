@@ -4,9 +4,13 @@ date: 2020-11-29T15:04:10.000Z
 description: Oscar-Claude Monet (1840-1926) broke free from the standard of learning from old masters and became one of the founding fathers of impressionism. Monet's impressionistic artwork depicts his view of the worlds nature and the different themes of lighting and seasons it has to offer.
 image: /img/ClaudeMonet.jpg
 ---
+[//]: # (above is the stored methods to add title, date, description, and image.)
+
 ""Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love" - Oscar-Claude Monet (1840–1926)"
 
 ## Artwork by Oscar-Claude Monet (1840-1926)
+
+[//]: # (adding a picture then linking a link to a name for lines 15-28)
 
 ![](/img/monet1.jpg)
 [Port-Domois, Belle-Isle (1887)](https://www.etsy.com/listing/597991206/port-domois-painting-by-claude-monet-art?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_b-art_and_collectibles-prints-giclee&utm_custom1=_k_CjwKCAiAn7L-BRBbEiwAl9UtkFS8ciN16PTK4F1TkIVbJ3t2KTJJ7B152VnC2NE8njeAb3CZn_Rz5BoCoeQQAvD_BwE_k_&utm_content=go_1844702583_72372896360_346428993098_pla-354814757658_c__597991206_230800513&utm_custom2=1844702583&gclid=CjwKCAiAn7L-BRBbEiwAl9UtkFS8ciN16PTK4F1TkIVbJ3t2KTJJ7B152VnC2NE8njeAb3CZn_Rz5BoCoeQQAvD_BwE) is a painting that rests well with the soul, which reaches out to the desire to travel within many individuals. ($32.99)
