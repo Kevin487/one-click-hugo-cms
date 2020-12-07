@@ -12,3 +12,4 @@ values:
     heading: Our values
     text: Art is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of monopoly and e-commerce. We want to turn this around and return the art trade to the art's exhilarating, empowering and unifying nature. We love to create a hub of individual artists and give them the opportunity to create and sell their artwork.
 ---
+[//]: # (Stored ways to add in edited information into template on home page.)
