@@ -1,15 +1,19 @@
 {{ define "main" }}
-
+<!-- blog post formatting -->
   <div class="mw6 center ph3 pv4">
+    <!-- Title location -->
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
+      <!-- date and time/ read time of post variability -->
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
     <div class="cms mw6">
+      <!-- description -->
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
   </div>
 {{ end }}
+<!-- gives paramaters and template to .md files in site/content/posts -->

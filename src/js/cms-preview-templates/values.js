@@ -3,6 +3,7 @@ import { List } from 'immutable';
 
 import Jumbotron from "./components/jumbotron";
 
+// template use for values page. text and image is especially important
 const MediaBlock = ({heading, text, imageUrl, reverse}) => {
   const imageContainerClassName = reverse
     ? "ph3-m w-50-m"
@@ -21,17 +22,17 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
 export default class ValuesPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
-    
+
     let image = getAsset(entry.getIn(["data", "image"]));
 
     // Bit of a nasty hack to make relative paths work as expected as a background image here
     if (image && !image.fileObj) {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
-    
+
     const entryValues = entry.getIn(["data", "values"]);
     const values = entryValues ? entryValues.toJS() : [];
-    
+
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
       <div className="bg-off-white pv4">
