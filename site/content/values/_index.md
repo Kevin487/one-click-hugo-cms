@@ -44,3 +44,4 @@ values:
       center of many peoples brain chemistry.
     imageUrl: "/img/abstract1.jpg"
 ---
+[//]: # (All of the above are Stored ways to add in edited information into the template for the home page.)

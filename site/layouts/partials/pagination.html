@@ -1,5 +1,5 @@
 {{ if gt .Paginator.TotalPages 1 }}
- 
+<!-- placements/ functions for previous and next page in feautrued artists tab--> 
 <nav class="cf pa3">
     {{ if .Paginator.HasNext }}
     <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
@@ -14,5 +14,5 @@
         {{ end }}
     </div>
 </nav>
- 
+
 {{ end }}
